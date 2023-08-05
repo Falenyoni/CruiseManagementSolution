@@ -10,9 +10,13 @@
         public int CompPax { get; set; }
         public string PickupPoint { get; set; }
         public string Destination { get; set; }
-        public int AdultPrice { get; set; }
-        public int ChildPrice { get; set; }
-        public int CompPrice { get; set; }
+        public decimal AdultPrice { get; set; }
+        public decimal ChildPrice { get; set; }
+        public decimal CompPrice { get; set; }
         public bool Travelled { get; set; }
+        public DateTime? TravelDate { get; set; }
+        public DateTime UpdateDate { get; set; }
+        public int UpdatedBy { get; set; }
+
     }
 }

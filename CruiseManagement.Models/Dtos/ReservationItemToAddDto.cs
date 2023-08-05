@@ -13,9 +13,12 @@ namespace CruiseManagement.Models.Dtos
         public string ProductName { get; set; }
         public string PickupPoint { get; set; }
         public string Destination { get; set; }
-        public int Adults { get; set; }
-        public int Child { get; set; }
-        public int Comp { get; set; }
+        public int AdultsPax { get; set; }
+        public int ChildPax { get; set; }
+        public int CompPax { get; set; }
+        public decimal AdultPrice { get; set; }
+        public decimal ChildPrice { get; set; }
+        public decimal CompPrice { get; set; }
         public decimal TotalPrice { get; set; }
     }
 }

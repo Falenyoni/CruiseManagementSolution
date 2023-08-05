@@ -11,6 +11,8 @@ namespace CruiseManagement.Api.Entities
         public int AgentId { get; set; }
         public int UserId { get; set; }
         public string Notes { get; set; }
+        public DateTime BookingDate { get; set; }
+        public DateTime UpdatedDate { get; set; }
         public List<ReservationItem> ReservationItemsList { get; set; }
     }
 }
