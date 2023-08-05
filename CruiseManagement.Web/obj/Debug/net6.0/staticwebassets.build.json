@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EL56+h66ReNbPNycmn7r/N3eXGDp0bBY0FMPc3dPKmo=",
+  "Hash": "anawC9Yz8qzgc03WgrdES4rIaxLjLnQCKitgHhM+2ms=",
   "Source": "CruiseManagement.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Bongani\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.15\\build\\net6.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\CruiseManagement.Models.dll",
+      "SourceId": "CruiseManagement.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/CruiseManagement.Models.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Models\\bin\\Debug\\net6.0\\CruiseManagement.Models.dll"
+    },
+    {
+      "Identity": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\CruiseManagement.Models.pdb",
+      "SourceId": "CruiseManagement.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/CruiseManagement.Models.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Models\\bin\\Debug\\net6.0\\CruiseManagement.Models.pdb"
     },
     {
       "Identity": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\CruiseManagement.Web.dll",
@@ -5831,6 +5865,23 @@
       "OriginalItemSpec": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll"
     },
     {
+      "Identity": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\obj\\Debug\\net6.0\\build-gz\\rkZ8HQfY.gz",
+      "SourceId": "CruiseManagement.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/CruiseManagement.Models.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\CruiseManagement.Models.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\CruiseManagement.Models.pdb"
+    },
+    {
       "Identity": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\obj\\Debug\\net6.0\\build-gz\\RNJiBfhK.gz",
       "SourceId": "CruiseManagement.Web",
       "SourceType": "Computed",
@@ -6322,6 +6373,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.dll"
+    },
+    {
+      "Identity": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\obj\\Debug\\net6.0\\build-gz\\wStoRAdJ.gz",
+      "SourceId": "CruiseManagement.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/CruiseManagement.Models.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\CruiseManagement.Models.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\CruiseManagement.Models.dll"
     },
     {
       "Identity": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Web\\obj\\Debug\\net6.0\\build-gz\\WxfZYAMH.gz",

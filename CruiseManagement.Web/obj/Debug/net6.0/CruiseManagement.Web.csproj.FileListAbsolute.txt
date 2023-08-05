@@ -818,3 +818,11 @@ C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\obj\Debug\net6.0\Cru
 C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\obj\Debug\net6.0\refint\CruiseManagement.Web.dll
 C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\obj\Debug\net6.0\CruiseManagement.Web.pdb
 C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\obj\Debug\net6.0\ref\CruiseManagement.Web.dll
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\bin\Debug\net6.0\wwwroot\_framework\CruiseManagement.Models.dll
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\bin\Debug\net6.0\wwwroot\_framework\CruiseManagement.Models.pdb
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\bin\Debug\net6.0\wwwroot\_framework\CruiseManagement.Models.pdb.gz
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\bin\Debug\net6.0\wwwroot\_framework\CruiseManagement.Models.dll.gz
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\bin\Debug\net6.0\CruiseManagement.Models.dll
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\bin\Debug\net6.0\CruiseManagement.Models.pdb
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\obj\Debug\net6.0\build-gz\wStoRAdJ.gz
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Web\obj\Debug\net6.0\build-gz\rkZ8HQfY.gz

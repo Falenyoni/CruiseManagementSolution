@@ -869,6 +869,16 @@
             "rid": "win"
           }
         }
+      },
+      "CruiseManagement.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CruiseManagement.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CruiseManagement.Models.dll": {}
+        }
       }
     }
   },
@@ -2215,10 +2225,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CruiseManagement.Models/1.0.0": {
+      "type": "project",
+      "path": "../CruiseManagement.Models/CruiseManagement.Models.csproj",
+      "msbuildProject": "../CruiseManagement.Models/CruiseManagement.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CruiseManagement.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.20",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.20",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.20",
@@ -2259,7 +2275,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Models\\CruiseManagement.Models.csproj": {
+              "projectPath": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Models\\CruiseManagement.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

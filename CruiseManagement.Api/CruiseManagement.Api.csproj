@@ -19,7 +19,10 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Extenstions\" />
-    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CruiseManagement.Models\CruiseManagement.Models.csproj" />
   </ItemGroup>
 
 </Project>

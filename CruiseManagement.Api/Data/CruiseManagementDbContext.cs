@@ -159,6 +159,8 @@ namespace CruiseManagement.Api.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductCategory> ProductCategories { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<BookingAgent> BookingAgents { get; set; }
+        public DbSet<AgentType> AgentTypes { get; set; }
     }
 
     

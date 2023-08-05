@@ -498,6 +498,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "CruiseManagement.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CruiseManagement.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CruiseManagement.Models.dll": {}
+        }
       }
     },
     "net6.0/browser-wasm": {
@@ -990,6 +1000,16 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "CruiseManagement.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CruiseManagement.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CruiseManagement.Models.dll": {}
         }
       }
     }
@@ -1753,10 +1773,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "CruiseManagement.Models/1.0.0": {
+      "type": "project",
+      "path": "../CruiseManagement.Models/CruiseManagement.Models.csproj",
+      "msbuildProject": "../CruiseManagement.Models/CruiseManagement.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CruiseManagement.Models >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.15",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.15"
     ]
@@ -1794,7 +1820,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Models\\CruiseManagement.Models.csproj": {
+              "projectPath": "C:\\cs11donet7\\CruiseManagementSolution\\CruiseManagement.Models\\CruiseManagement.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
