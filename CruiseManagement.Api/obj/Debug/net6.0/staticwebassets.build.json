@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0+KpvWVOfQHr6wIV2xt3ZKcnrCdZXChWq0KinogkIig=",
+  "Source": "CruiseManagement.Api",
+  "BasePath": "_content/CruiseManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
