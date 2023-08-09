@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruiseManagement.Web", "Cru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruiseManagement.Api", "CruiseManagement.Api\CruiseManagement.Api.csproj", "{1F2FEDA9-A5A8-4A8D-8D59-2B232624286D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CruiseManagement.Models", "CruiseManagement.Models\CruiseManagement.Models.csproj", "{FA638F5A-B647-4D46-A124-45E1A952FC50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruiseManagement.Models", "CruiseManagement.Models\CruiseManagement.Models.csproj", "{FA638F5A-B647-4D46-A124-45E1A952FC50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

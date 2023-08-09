@@ -1,0 +1,25 @@
+﻿@inherits DisplayProductsBase
+
+
+    <table class="table">
+        <thead>
+        <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>CategoryName</th>
+                <th>Description</th>
+        </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Products)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.CategoryName</td>
+                <td>@item.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+

@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-C3gpWQMELcHYfrHU\/1agQUvWTtSNs9Ul2suMxcKFnIc=",
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
-      "CruiseManagement.Models.dll": "sha256-\/JS+MaiXMJ\/bO6mr3qLxJpMigUX5cITrzFLremPaVXo=",
-      "CruiseManagement.Web.dll": "sha256-FIakKAZ1+LMsEE7OpknYwKvATk6TDsR4Q9pve\/uyAxg="
+      "CruiseManagement.Models.dll": "sha256-YQpnioW+hlcv+T\/p0BJKSQlHJ8Cxx5d\/JXzcvWSEZjs=",
+      "CruiseManagement.Web.dll": "sha256-+tNKf4Uku3n1qNxDI5RnCs1mAXs6Yheao2Mxzo\/ffdU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "CruiseManagement.Models.pdb": "sha256-wsxiiVK9sQpDAFM6Q8urW4pu4L5N7hsRkH80+VLYfWE=",
-      "CruiseManagement.Web.pdb": "sha256-WevUyDB4rFS+x2zHs39IOxXcqJSZ+GrGrQ8myCA18D4="
+      "CruiseManagement.Models.pdb": "sha256-ov2NxrNPlnQMhpXrIp4+xaB57jgYiXg4xgROYhSB79Q=",
+      "CruiseManagement.Web.pdb": "sha256-Wr5kDBY8TXQtrib4mIgYWciRzLwhwreEdSFdW1lJdE8="
     },
     "runtime": {
       "dotnet.6.0.16.gj8krtt6pr.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",

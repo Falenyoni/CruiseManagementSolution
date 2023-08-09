@@ -14,7 +14,7 @@
         public decimal ChildPrice { get; set; }
         public decimal CompPrice { get; set; }
         public bool Travelled { get; set; }
-        public DateTime? TravelDate { get; set; }
+        public DateTime TravelDate { get; set; }
         public DateTime UpdateDate { get; set; }
         public int UpdatedBy { get; set; }
 

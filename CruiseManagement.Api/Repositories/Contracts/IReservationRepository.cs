@@ -9,6 +9,6 @@ namespace CruiseManagement.Api.Repositories.Contracts
         Task<ReservationItem> UpdateQty(int id, ReservationItemUpdateDto cartItemDto);
         Task<ReservationItem> DeleteItem(int id);
         Task<ReservationItem> GetItem(int id);
-        Task<IEnumerable<ReservationItem>> GetItems(int userId);
+        Task<IEnumerable<ReservationItem>> GetItems(DateTime travelDate);
     }
 }

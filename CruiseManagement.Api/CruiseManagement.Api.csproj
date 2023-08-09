@@ -17,11 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Extenstions\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CruiseManagement.Models\CruiseManagement.Models.csproj" />
   </ItemGroup>
 

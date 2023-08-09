@@ -18,5 +18,6 @@ namespace CruiseManagement.Models.Dtos
         public int Child { get; set; }
         public int Comp { get; set; }
         public decimal TotalPrice { get; set; }
+        public DateTime TravelDate { get; set; }
     }
 }

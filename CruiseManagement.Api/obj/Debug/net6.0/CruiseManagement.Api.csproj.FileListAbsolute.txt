@@ -66,3 +66,5 @@ C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Api\obj\Debug\net6.0\ref
 C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Api\obj\Debug\net6.0\CruiseManagement.Api.pdb
 C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Api\obj\Debug\net6.0\CruiseManagement.Api.genruntimeconfig.cache
 C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Api\obj\Debug\net6.0\ref\CruiseManagement.Api.dll
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Api\bin\Debug\net6.0\CruiseManagement.Models.dll
+C:\cs11donet7\CruiseManagementSolution\CruiseManagement.Api\bin\Debug\net6.0\CruiseManagement.Models.pdb
